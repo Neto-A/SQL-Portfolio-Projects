@@ -12,6 +12,8 @@ COVID Vaccinations: https://github.com/AlexTheAnalyst/PortfolioProjects/raw/main
 
 Software used: The queries were written in Microsoft SQL Server, and should be run on the same.
 
-Visualization:
+Visualization: 
+
+![image](https://user-images.githubusercontent.com/109004071/178161574-b5c0b4ca-92d4-4c97-a95b-cdeb5d241a7a.png)
 
 --END
