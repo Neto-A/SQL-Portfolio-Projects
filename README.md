@@ -1,13 +1,14 @@
 # SQL-Portfolio-Projects
 
-##Table of Contents
+## Table of Contents
 <ul>
 <li><a href="#intro">Introduction.</a></li>
 <li><a href="#proj1">Project 1: World COVID-19 Figures.</a></li>
 </ul>
 
 <a id='intro'></a>
-##Introduction.
+## Introduction.
+
 This is a repository containing all my SQL projects. 
 I will be using either Microsoft SQL Server or MySQL for each project.
 
